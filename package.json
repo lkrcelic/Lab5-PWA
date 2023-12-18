@@ -1,6 +1,9 @@
 {
   "name": "lab5-pwa",
   "version": "1.0.0",
+  "dependencies": {
+    "http-server": "^0.13.0"
+  },
   "scripts": {
     "server": "http-server . -p 8000 -c-1"
   }

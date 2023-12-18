@@ -1,0 +1,7 @@
+{
+  "name": "lab5-pwa",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "http-server . -p 8000 -c-1"
+  }
+}
